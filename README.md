@@ -8,6 +8,6 @@ Data provides demographic information on a sample of working professionals along
 ### Objective:
 Target variable - Target (WFH=1 | WFO=0)
 - WFH = Work from Hom
-- WFO - Work from the Office
+- WFO = Work from the Office
 
 Run supervised classification models to accurately identify preference for location of work for various individuals.
